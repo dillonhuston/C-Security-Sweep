@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.json
+*.pyo
+*.pyz
+*.so
+venv/
+.env
+
+
+*.log
+data/sweeps/*.json
